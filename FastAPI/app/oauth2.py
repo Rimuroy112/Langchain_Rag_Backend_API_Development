@@ -4,7 +4,7 @@ from datetime import datetime,timedelta
 # security key
 # algorithm
 # expiration time
-SECRET_KEY = "123456789abcde"
+SECRET_KEY = "123456789abcd"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
